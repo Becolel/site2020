@@ -1,0 +1,8 @@
+.carousel-item img {
+    height: 500px;
+    padding:5% 10% 0% 10%;
+    border:none;
+}
+.carousel-caption{
+    color:black;
+}
