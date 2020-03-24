@@ -6,9 +6,9 @@
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/css.css">
   </head>
-  <body class="text-black">
+  <body >
     <header>
-      <nav class="navbar navbar-expand-md navbar-light fixed-top">
+      <nav class="navbar navbar-expand-md navbar-light fixed-top" style="background-color:white;">
         <a class="navbar-brand" href="index.php">
           <img src="img/beco_logo.png" width="30" height="30" class="d-inline-block align-top">
           BECO
@@ -45,9 +45,9 @@
     <!--Carrossel-->
     <div id="myCarousel" class="carousel slide" data-ride="carousel">
       <ol class="carousel-indicators">
-        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-        <li data-target="#myCarousel" data-slide-to="1"></li>
-        <li data-target="#myCarousel" data-slide-to="2"></li>
+        <li data-target="#myCarousel" data-slide-to="0" class="active" style="background-color:rgb(247, 41, 41);"></li>
+        <li data-target="#myCarousel" data-slide-to="1"style="background-color:rgb(247, 41, 41);"></li>
+        <li data-target="#myCarousel" data-slide-to="2"style="background-color:rgb(247, 41, 41);"></li>
       </ol>
     <div class="carousel-inner" >
       <div class="carousel-item active">
@@ -55,7 +55,7 @@
           <div class="carousel-caption text-right">
             <h3>Fique por dentro do que rolou </br>em nosso ultimo encontro!</h3>
             <p>Agro é tech, Agro é pop, Agro é tudo? 24 de outubro de 2019.</p>
-            <p><a class="btn btn-lg btn-primary" href="#" >Veja mais</a></p>
+            <p><a class="btn btn-lg  btn-success" href="#" >Veja mais</a></p>
           </div>
       </div>
       <div class="carousel-item">
@@ -63,7 +63,7 @@
        <div class="carousel-caption text-right">
             <h3>Fique por dentro do que rolou </br>em nosso ultimo encontro!</h3>
             <p>Ciência ora quê? Ciência pra quem? 17 de setembro de 2019.</p>
-            <p><a class="btn btn-lg btn-primary" href="#" >Veja mais</a></p>
+            <p><a class="btn btn-lg btn-success" href="#" >Veja mais</a></p>
           </div>
       </div>
       <div class="carousel-item">
@@ -71,7 +71,7 @@
       <div class="carousel-caption text-right">
             <h3>Fique por dentro do que rolou </br>em nosso ultimo encontro!</h3>
             <p>Ser ou não ser? 28 de Maio de 2019.</p>
-            <p><a class="btn btn-lg btn-primary" href="#" >Veja mais</a></p>
+            <p><a class="btn btn-lg btn-success" href="#" >Veja mais</a></p>
           </div>
       </div>
     </div>
@@ -82,6 +82,49 @@
       <span class="carousel-control-next-icon"></span><!--botão proximo que muda o carrosel-->
     </a>
   </div>
+    <!-- START THE FEATURETTES -->
+  <div class="text-white">
+    <div class="row">
+      <div class="col" style="background-color:rgb(247, 41, 41); text-align:center; padding:8% 3% 5% 3%;">
+      <h4>Sejam Bem Vindos!</h4>
+        <h2 >Vem aí... Beco 2020</h2>
+        <p class="lead">
+            Fique por dentro dos processos seletivos para bolsas de  extensão e faça parte do projeto 
+            Beco - Literatura e Linguagem em 2020!Se você acaba de chegar no IFSP ou não estuda aqui, 
+            fique por dentro dos eventos e participe dos encontros mensais! Não perca esta oportunidade! 
+        </p>
+      </div>
+      <div class="col">
+      <img src="img/00.jpg" class="img-fluid" width="100%" height="90%">
+      </div>
+    </div>
+    <div class="row">
+      <div class="col" >
+        <img src="img/00.jpg" class="img-fluid" width="100%" height="90%">
+      </div>
+      <div class="col" style="background-color:black; text-align:center;  padding:8% 3% 5% 3%;">
+        <h2> Beco e sua História</h2>
+        <p class="lead">
+          Ficou curioso? Quer saber mais sobre o projeto? Clique no botão 
+          abaixo e conheça um pouco mais sobre nossa trajetória! Fique atento 
+          aos próximos encontros e não deixe de participar!
+        </p>
+      </div>
+    </div>
+    <div class="row ">
+      <div class="col" style="background-color: #53BC28; text-align:center; padding:8% 3% 5% 3%;">
+        <h2 >IFSP ARARAQUARA</h2>
+        <p class="lead">Venha conhecer o IFSP </br> Acesse o site do Campus Araraquara 
+        e fique por dentro de tudo o que acontece aqui. Entre em contato e agende sua 
+        visita ao Campus ou sua participação no Beco.
+        </p>
+      </div>
+      <div class="col">
+      <img src="img/00.jpg" class="img-fluid" width="100%" height="90%">
+      </div>
+    </div>
+  </div>
+  <!-- /END THE FEATURETTES -->
   <!-- FOOTER -->
   <footer class="footer text-center">
   Rua Doutor Aldo Benedito Pierri, 250
