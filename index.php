@@ -2,7 +2,8 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>beco</title>
+    <title>Beco</title>
+    <link rel="shortcut icon" href="img/favicon.ico" >
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/css.css">
   </head>
@@ -53,25 +54,25 @@
       <div class="carousel-item active">
         <img src="img/encontros/beco_agro.jpg" class="img-fluid" >
           <div class="carousel-caption text-right">
-            <h3>Fique por dentro do que rolou </br>em nosso ultimo encontro!</h3>
+            <h3 style="color: #53BC28;">Fique por dentro do que rolou </br>em nosso ultimo encontro!</h3>
             <p>Agro é tech, Agro é pop, Agro é tudo? 24 de outubro de 2019.</p>
-            <p><a class="btn btn-lg  btn-success" href="#" >Veja mais</a></p>
+            <p><a class="btn btn-lg btn-success" style="background-color: #53BC28;" href="#" >Veja mais</a></p>
           </div>
       </div>
       <div class="carousel-item">
       <img src="img/encontros/beco-ciencia.jpg" class="img-fluid" alt="Imagem responsiva">
        <div class="carousel-caption text-right">
-            <h3>Fique por dentro do que rolou </br>em nosso ultimo encontro!</h3>
+            <h3 style="color: #53BC28;">Fique por dentro do que rolou </br>no encontro de Setembro!</h3>
             <p>Ciência ora quê? Ciência pra quem? 17 de setembro de 2019.</p>
-            <p><a class="btn btn-lg btn-success" href="#" >Veja mais</a></p>
+            <p><a class="btn btn-lg btn-success" style="background-color: #53BC28;" href="#" >Veja mais</a></p>
           </div>
       </div>
       <div class="carousel-item">
       <img src="img/encontros/beco_desconectar.png" class="img-fluid" alt="Imagem responsiva">
       <div class="carousel-caption text-right">
-            <h3>Fique por dentro do que rolou </br>em nosso ultimo encontro!</h3>
+            <h3 style="color: #53BC28;">Fique por dentro do que rolou </br>no encontro de Julho!</h3>
             <p>Desconectar para Conectar!10 de junho de 2019</p>
-            <p><a class="btn btn-lg btn-success" href="#" >Veja mais</a></p>
+            <p><a class="btn btn-lg btn-success" style="background-color: #53BC28;" href="#" >Veja mais</a></p>
           </div>
       </div>
     </div>
@@ -84,13 +85,13 @@
   </div>
   <div class="jumbotron bg-white text-dark">
   <div class="col-md-6">
-    <h1 class="text-center">Novidades</h1>
+    <h1 class="text-center" style="color: #53BC28;">Novidades</h1>
   </div>
 </div>
     <!-- COMEÇO QUADRADOS -->
   <div class="text-white">
     <div class="row">
-      <div class="col" style="background-color:rgb(247, 41, 41); text-align:center; padding:15% 3% 5% 3%;">
+      <div class="col" style="background-color:rgb(247, 41, 41); text-align:center; padding:10% 3% 5% 3%;">
       <h4>Sejam Bem Vindos!</h4>
         <h2 >Vem aí... Beco 2020</h2>
         <p class="lead">
@@ -114,6 +115,7 @@
           abaixo e conheça um pouco mais sobre nossa trajetória! Fique atento 
           aos próximos encontros e não deixe de participar!
         </p>
+        <p><a class="btn btn-outline-success"  href="#" >Veja mais</a></p>
       </div>
     </div>
     <div class="row ">
@@ -123,6 +125,7 @@
         e fique por dentro de tudo o que acontece aqui. Entre em contato e agende sua 
         visita ao Campus ou sua participação no Beco.
         </p>
+        <p><a class="btn btn-outline-danger" href="#" >Veja mais</a></p>
       </div>
       <div class="col">
       <img src="img/ifsp.jpg" class="img-fluid" width="100%" height="90%">
