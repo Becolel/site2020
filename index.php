@@ -63,7 +63,7 @@
     <!-- COMEÇO QUADRADOS -->
   <div class="container text-white">
     <div class="row align-items-center" >
-      <div class="col-12 col-md-6" style="background-color:rgb(247, 41, 41); text-align:center; padding:10% 3% 5% 3%;">
+      <div class="col" style="background-color:rgb(247, 41, 41); text-align:center; padding:10% 3% 5% 3%;">
       <h4>Sejam Bem Vindos!</h4>
         <h2 >Vem aí... Beco 2020</h2>
         <p class="lead">
@@ -72,15 +72,15 @@
             fique por dentro dos eventos e participe dos encontros mensais! Não perca esta oportunidade! 
         </p>
       </div>
-      <div class="col-12 col-md-6">
+      <div class="col">
       <img src="img/equipe-finalEncontro2.jpg"  class="img-fluid"> <!-- width="100%" height="90%"--> 
       </div>
     </div>
     <div class="row align-items-center">
-      <div class="col-12 col-md-6" >
+      <div class="col" >
         <img src="img/equipe2019.jpg"  class="img-fluid" >
       </div>
-      <div class="col-12 col-md-6" style="background-color:black; text-align:center; padding:15% 3% 5% 3%;">
+      <div class="col" style="background-color:black; text-align:center; padding:15% 3% 5% 3%;">
         <h2> Beco e sua História</h2>
         <p class="lead">
           Ficou curioso? Quer saber mais sobre o projeto? Clique no botão 
@@ -91,7 +91,7 @@
       </div>
     </div>
     <div class="row align-items-center" >
-      <div class="col-12 col-md-6" style="background-color: #53BC28; text-align:center; padding:8% 3% 0% 3%;">
+      <div class="col" style="background-color: #53BC28; text-align:center; padding:8% 3% 0% 3%;">
         <h2 >IFSP ARARAQUARA</h2>
         <p class="lead">Venha conhecer o IFSP </br> Acesse o site do Campus Araraquara 
         e fique por dentro de tudo o que acontece aqui. Entre em contato e agende sua 
@@ -99,7 +99,7 @@
         </p>
         <p><a class="btn btn-outline-danger" href="#" >Veja mais</a></p>
       </div>
-      <div class="col-12 col-md-6" >
+      <div class="col" >
       <img src="img/ifsp.jpg" class="img-fluid" >
       </div>
     </div>
