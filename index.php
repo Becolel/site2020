@@ -25,26 +25,26 @@
       <div class="carousel-inner" >
         <div class="carousel-item active">
           <img src="img/encontros/beco_agro.jpg" class="img-fluid" >
-          <div class="carousel-caption text-right">
-            <h3 style="color: #53BC28;">Fique por dentro do que rolou </br>em nosso ultimo encontro!</h3>
-            <p>Agro é tech, Agro é pop, Agro é tudo? 24 de outubro de 2019.</p>
-            <p><a class="btn btn-lg btn-success" style="background-color: #53BC28;" href="#" >Veja mais</a></p>
+          <div class="carousel-caption text-right" style="-webkit-text-stroke-width: 2px;  -webkit-text-stroke-color: unset;">
+            <h3 style="color: #53BC28; ">Fique por dentro do que rolou </br>em nosso ultimo encontro!</h3>
+            <p style="-webkit-text-stroke-width: 1px;">Agro é tech, Agro é pop, Agro é tudo?</br> 24 de outubro de 2019.</p>
+            <p><a class="btn btn-lg btn-success" style="background-color: #53BC28;  -webkit-text-stroke-width: 0px;" href="#" >Veja mais</a></p>
           </div>
       </div>
       <div class="carousel-item">
         <img src="img/encontros/beco-ciencia.jpg" class="img-fluid" alt="Imagem responsiva">
-        <div class="carousel-caption text-right">
+        <div class="carousel-caption text-right" style="-webkit-text-stroke-width: 2px;  -webkit-text-stroke-color: unset;">
             <h3 style="color: #53BC28;">Fique por dentro do que rolou </br>no encontro de Setembro!</h3>
-            <p>Ciência ora quê? Ciência pra quem? 17 de setembro de 2019.</p>
-            <p><a class="btn btn-lg btn-success" style="background-color: #53BC28;" href="#" >Veja mais</a></p>
+            <p style="-webkit-text-stroke-width: 1px;">Ciência ora quê? Ciência pra quem?</br> 17 de setembro de 2019.</p>
+            <p><a class="btn btn-lg btn-success" style="background-color: #53BC28;  -webkit-text-stroke-width: 0px;" href="#" >Veja mais</a></p>
         </div>
       </div>
       <div class="carousel-item">
         <img src="img/encontros/beco_desconectar.png" class="img-fluid" alt="Imagem responsiva">
-        <div class="carousel-caption text-right">
+        <div class="carousel-caption text-right" style="-webkit-text-stroke-width: 2px;  -webkit-text-stroke-color: unset;">
               <h3 style="color: #53BC28;">Fique por dentro do que rolou </br>no encontro de Julho!</h3>
-              <p>Desconectar para Conectar!10 de junho de 2019</p>
-              <p><a class="btn btn-lg btn-success" style="background-color: #53BC28;" href="#" >Veja mais</a></p>
+              <p style="-webkit-text-stroke-width: 1px;">Desconectar para Conectar!</br>10 de junho de 2019</p>
+              <p><a class="btn btn-lg btn-success" style="background-color: #53BC28;  -webkit-text-stroke-width: 0px;" href="#" >Veja mais</a></p>
         </div>
       </div>
     </div>
@@ -60,10 +60,10 @@
     <h1 class="text-center" style="color: #53BC28;">Novidades</h1>
   </div>
 </div>
-    <!-- COMEÇO QUADRADOS -->
-  <div class="container text-white">
-    <div class="row align-items-center" >
-      <div class="col" style="background-color:rgb(247, 41, 41); text-align:center; padding:10% 3% 5% 3%;">
+   <!-- COMEÇO QUADRADOS -->
+  <div class="text-white">
+    <div class="row " >
+      <div class="col-12 col-md-6" style="background-color:rgb(247, 41, 41); text-align:center; padding:15% 3% 5% 3%;">
       <h4>Sejam Bem Vindos!</h4>
         <h2 >Vem aí... Beco 2020</h2>
         <p class="lead">
@@ -72,15 +72,15 @@
             fique por dentro dos eventos e participe dos encontros mensais! Não perca esta oportunidade! 
         </p>
       </div>
-      <div class="col">
-      <img src="img/equipe-finalEncontro2.jpg"  class="img-fluid"> <!-- width="100%" height="90%"--> 
+      <div class=" center col-12 col-md-6" >
+      <img src="img/equipe-finalEncontro2.jpg" class="img-fluid" width="100%" height="90%">
       </div>
     </div>
-    <div class="row align-items-center">
-      <div class="col" >
-        <img src="img/equipe2019.jpg"  class="img-fluid" >
+    <div class="row "  >
+      <div class=" center col-12 col-md-6" >
+        <img src="img/equipe2019.jpg" class="img-fluid" width="100%" height="90%">
       </div>
-      <div class="col" style="background-color:black; text-align:center; padding:15% 3% 5% 3%;">
+      <div class="col-12 col-md-6" style="background-color:black; text-align:center; padding:15% 3% 5% 3%;">
         <h2> Beco e sua História</h2>
         <p class="lead">
           Ficou curioso? Quer saber mais sobre o projeto? Clique no botão 
@@ -90,8 +90,8 @@
         <p><a class="btn btn-outline-success"  href="#" >Veja mais</a></p>
       </div>
     </div>
-    <div class="row align-items-center" >
-      <div class="col" style="background-color: #53BC28; text-align:center; padding:8% 3% 0% 3%;">
+    <div class="row">
+      <div class="col-12 col-md-6 " style="background-color: #53BC28; text-align:center; padding:10% 3% 5% 3%;">
         <h2 >IFSP ARARAQUARA</h2>
         <p class="lead">Venha conhecer o IFSP </br> Acesse o site do Campus Araraquara 
         e fique por dentro de tudo o que acontece aqui. Entre em contato e agende sua 
@@ -99,8 +99,8 @@
         </p>
         <p><a class="btn btn-outline-danger" href="#" >Veja mais</a></p>
       </div>
-      <div class="col" >
-      <img src="img/ifsp.jpg" class="img-fluid" >
+      <div class="center col-12 col-md-6">
+      <img src="img/ifsp.jpg" class="img-fluid" width="100%" height="90%">
       </div>
     </div>
   </div>

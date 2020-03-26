@@ -15,8 +15,10 @@
 .row{
     margin:2% 5% 2% 10%;
     height: 5%;
-    width: 80%;
+    width: 80%; 
 }
-.container{
-	width:1010%;
+.center {
+	display: flex;
+	justify-content: center;
+	align-items: center; 
 }
