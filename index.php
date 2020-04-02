@@ -15,6 +15,21 @@
     <div class="titulo">
       <img src="img/logos/logo_grande2.png" class="img-fluid mx-auto d-block"  >
     </div> 
+    <div class="fundo" style="background-color:rgb(247, 41, 41); text-align:center; padding:2% 0% 2% 0%">
+      <div class="p-4 p-md-5 text-white ">
+          <h2 class="display-4 text-bold font-weight-normal" style="-webkit-text-stroke-width: 1px;">QUEM SOMOS?!</h2>
+          <p><h3 class="text-center">
+          Beco - Literartura e Linguagem, é um projeto de extensão do IFSP - Araraqura que tem como bjetivo 
+          proporcionar uma roda de conversa entre alunos dos nonos anos,de escolas públicas de Araraquara e 
+          região, e professores ou especialistas de diversas áreas.
+          Durante o evento ocorrem atividades e discussões que visam o crescimento pessoal e 
+          em sociedade bem como a possibilidade de obter novas ideias e conhecimentos. Ao final de cada encontro 
+          os alunos participam de um passeio guiado às dependências da instituição, apresentando as localidades do Instituto.
+          Se você gostou do projeto e tem interesse em conhecer mais, fique de olho em nossas atualizações faça uma 
+          visita ou entre em contato conosco!
+          </h3></p>
+      </div>
+    </div>
     <!--Carrossel-->
     <div id="myCarousel" class="carousel slide" data-ride="carousel">
       <ol class="carousel-indicators">
@@ -61,9 +76,9 @@
   </div>
 </div>
    <!-- COMEÇO QUADRADOS -->
-  <div class="text-white">
-    <div class="row " >
-      <div class="col-12 col-md-6" style="background-color:rgb(247, 41, 41); text-align:center; padding:15% 3% 5% 3%;">
+  <div class="text-white text-center">
+    <div class="row" >
+      <div class="col-12 col-md-6" style="background-color:#53BC28; padding:15% 3% 5% 3%;">
       <h4>Sejam Bem Vindos!</h4>
         <h2 >Vem aí... Beco 2020</h2>
         <p class="lead">
@@ -80,7 +95,7 @@
       <div class=" center col-12 col-md-6" >
         <img src="img/equipe2019.jpg" class="img-fluid" width="100%" height="90%">
       </div>
-      <div class="col-12 col-md-6" style="background-color:black; text-align:center; padding:15% 3% 5% 3%;">
+      <div class="col-12 col-md-6" style="background-color:black; padding:15% 3% 5% 3%;">
         <h2> Beco e sua História</h2>
         <p class="lead">
           Ficou curioso? Quer saber mais sobre o projeto? Clique no botão 
@@ -91,7 +106,7 @@
       </div>
     </div>
     <div class="row">
-      <div class="col-12 col-md-6 " style="background-color: #53BC28; text-align:center; padding:10% 3% 5% 3%;">
+      <div class="col-12 col-md-6 " style="background-color: rgb(247, 41, 41); padding:10% 3% 5% 3%;">
         <h2 >IFSP ARARAQUARA</h2>
         <p class="lead">Venha conhecer o IFSP </br> Acesse o site do Campus Araraquara 
         e fique por dentro de tudo o que acontece aqui. Entre em contato e agende sua 
